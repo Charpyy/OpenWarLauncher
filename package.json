@@ -3,11 +3,11 @@
   "version": "2.0.4",
   "productName": "OpenWar Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Chapy, Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Chapy, Daniel Scalzi (https://openwar.fr)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/Charpyy/OpenWarLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/Charpyy/OpenWarLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -44,6 +44,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Charpyy/OpenWarLauncher.git"
   }
 }
