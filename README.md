@@ -4,7 +4,7 @@
 
 <em><h5 align="center">Saison 10</h5></em>
 
-## Resources
+## Credit Developers
 
 * [Wiki][wiki]
 * [Nebula (Create Distribution.json)][nebula]
